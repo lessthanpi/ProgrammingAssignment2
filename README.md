@@ -1,3 +1,7 @@
+### Note
+
+This should be the completed Programming Assignment #2
+
 ### Introduction
 
 This second programming assignment will require you to write an R
