@@ -2,6 +2,9 @@
 
 This should be the completed Programming Assignment #2
 
+Just a quick rewrite of sample code with some extra functions from matlib.
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
